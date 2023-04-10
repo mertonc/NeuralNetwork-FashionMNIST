@@ -1,6 +1,8 @@
 # NeuralNetwork-FashionMNIST
 A study on neural network that compares different regularization techniques, activation functions, and optimizers to find the optimal model. To summarize, it is important to factor in regularization, activation function, and optimizers to be able to fully unlock neural network’s potential. It is important to note that each dataset is different and requires the data scientist or analyst to make their own research before concluding on the most ‘optimal’ model.
 
+![image](https://user-images.githubusercontent.com/104241091/230992989-1a860970-1e9a-4726-ab58-32b96bd67bc6.png)
+
 # Notes
 The first instinctive observation is the amount of time it takes to run networks with high numbers of epoch. It makes it so that approaching the code takes more care before running. For the results there are multiple findings that basically emphasize the need for trial and error to find the best options for each unique dataset.
 
